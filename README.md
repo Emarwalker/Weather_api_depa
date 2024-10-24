@@ -27,12 +27,11 @@ bash
 Copy code
 npm install
 This installs the following packages:
-express: Server framework
-ejs: Template engine
-axios: HTTP request library
-cheerio: HTML parser and web scraper
+- express: Server framework
+- ejs: Template engine
+- axios: HTTP request library
+- cheerio: HTML parser and web scraper
 Run the application:
-
 bash
 Copy code
 node app.js
