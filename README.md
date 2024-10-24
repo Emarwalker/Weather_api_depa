@@ -19,7 +19,7 @@ Prerequisites
 Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-api.git
+   git clone https://github.com/Emarwalker/weather-api.git
    cd weather-api
 Install dependencies:
 
