@@ -27,7 +27,6 @@ bash
 Copy code
 npm install
 This installs the following packages:
-
 express: Server framework
 ejs: Template engine
 axios: HTTP request library
